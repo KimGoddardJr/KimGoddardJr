@@ -23,7 +23,7 @@
 **Languages, APIs and Tools:**
 <br>
 [<code><img height="20" src="https://avatars.githubusercontent.com/u/52924476?s=200&v=4"></code>](https://www.blender.org/)
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/houdini/houdini.png"></code>](https://www.sidefx.org/)
+[<code><img height="20" src="https://avatars.githubusercontent.com/u/1576570?s=200&v=4"></code>](https://www.sidefx.org/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maya/maya.png"></code>](https://www.autodesk.org/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/houdini/houdini.png"></code>](https://www.thefoundry.com/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>](https://www.python.org/)
