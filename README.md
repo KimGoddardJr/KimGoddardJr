@@ -44,4 +44,4 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kimgoddardjr&show_icons=true&theme=gotham" alt="kimgoddardjr" />
 
-![Snake animation](https://github.com/kimgoddardjr/kimgoddardjr/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kimgoddardjr/kimgoddardjr/blob/output/github-contribution-grid-snake.gif)
