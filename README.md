@@ -12,15 +12,7 @@
 </a>
 <a href="https://vimeo.com/paxigalaxi">
   <img align="left" alt="Patxi's Vimeo" width="22px" src="https://logos-download.com/wp-content/uploads/2021/01/Vimeo_Logo.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCFd9s2x0W8kIvmJdoMTWAJA">
-  <img align="left" alt="Patxi's YouTube" width="22px" src="https://www.svgrepo.com/download/13671/youtube.svg" />
-</a>
-
-<!-- <a href="https://www.fiverr.com/paxigalaxi">
-  <img align="left" alt="Patxi's Fiverr" width="22px" src="https://avatars.githubusercontent.com/u/807499?s=200&v=4" /> -->
-<!-- <a href="https://www.hackerearth.com/@PatxiExequielAguirre">
-  <img align="left" alt="Patxi's HackerEarth" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/480px-HackerEarth_logo.png" /> -->
+  
 
 <br>
 <br>
