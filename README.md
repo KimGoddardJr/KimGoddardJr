@@ -1,5 +1,5 @@
 
-<img src="https://tenor.com/view/clap-happy-hands-shaking-hands-grease-gif-13729458" width="30px"> I'm [Patxi](https://www.linkedin.com/in/patxi-exequiel-aguirre-98b17141/).
+<img src="https://github.com/pop/gif_collection/blob/master/001%20-%20mindblown.gif" width="30px"> I'm [Patxi](https://www.linkedin.com/in/patxi-exequiel-aguirre-98b17141/).
 
 - 💬 A huge DCC Software and Python enthusiast!
 - 💖 Particularly passionate about Pipeline Automation and Optimization.
