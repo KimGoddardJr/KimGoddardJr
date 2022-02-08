@@ -12,6 +12,8 @@
 </a>
 <a href="https://vimeo.com/paxigalaxi">
   <img align="left" alt="Patxi's Vimeo" width="22px" src="https://logos-download.com/wp-content/uploads/2021/01/Vimeo_Logo.svg" />
+<a href="https://www.imdb.com/name/nm5016646/">
+  <img align="left" alt="IMDB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg" />
   
 
 <br>
