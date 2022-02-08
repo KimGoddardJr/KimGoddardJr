@@ -12,10 +12,10 @@
 </a>
 <a href="https://vimeo.com/paxigalaxi">
   <img align="left" alt="Patxi's Vimeo" width="22px" src="https://logos-download.com/wp-content/uploads/2021/01/Vimeo_Logo.svg" />
-<a href="https://www.fiverr.com/paxigalaxi">
-  <img align="left" alt="Patxi's Fiverr" width="22px" src="https://avatars.githubusercontent.com/u/807499?s=200&v=4" />
-<a href="https://www.hackerearth.com/@PatxiExequielAguirre">
-  <img align="left" alt="Patxi's HackerEarth" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/480px-HackerEarth_logo.png" />
+<!-- <a href="https://www.fiverr.com/paxigalaxi">
+  <img align="left" alt="Patxi's Fiverr" width="22px" src="https://avatars.githubusercontent.com/u/807499?s=200&v=4" /> -->
+<!-- <a href="https://www.hackerearth.com/@PatxiExequielAguirre">
+  <img align="left" alt="Patxi's HackerEarth" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/480px-HackerEarth_logo.png" /> -->
 
 <br>
 <br>
@@ -44,4 +44,4 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kimgoddardjr&show_icons=true&theme=gotham" alt="kimgoddardjr" />
 
-![Snake animation](https://github.com/KimGoddardJr/KimGoddardJr/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/KimGoddardJr/KimGoddardJr/blob/output/github-contribution-grid-snake.svg)
