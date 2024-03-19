@@ -4,8 +4,7 @@
 - 💬 A huge DCC Software and Python enthusiast!
 - 💖 Particularly passionate about Animation & Game Pipeline Automation and Optimization.
 - 📫 How to reach me: `paxigalaxi@gmail.com`
-- 🌐 For Support, Tutorials and more visit my [Website](https://patagu.org)!
-
+  
 <br>
 <a href="https://www.linkedin.com/in/patxi-exequiel-aguirre-98b17141/">
   <img align="left" alt="Patxi's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
