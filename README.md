@@ -1,45 +1,50 @@
+<!-- Mark asset: copy brand/avatars/LOCKED_pax_mark.png -> assets/pax-mark.png in this repo on push -->
+<p>
+ <img src="assets/pax-mark.png" alt="Pax" width="72" height="72" />
+</p>
 
-<img src="https://github.com/pop/gif_collection/blob/master/001%20-%20mindblown.gif" width="30px"> I'm [Patxi](https://www.linkedin.com/in/patxi-exequiel-aguirre-98b17141/).
+# Patxi Aguirre
 
-- 💬 A huge DCC Software and Python enthusiast!
-- 💖 Particularly passionate about Animation & Game Pipeline Automation and Optimization.
-- 📫 How to reach me: `paxigalaxi@gmail.com`
-  
-<br>
-<a href="https://www.linkedin.com/in/patxi-exequiel-aguirre-98b17141/">
-  <img align="left" alt="Patxi's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
-</a>
-<a href="https://vimeo.com/paxigalaxi">
-  <img align="left" alt="Patxi's Vimeo" width="22px" src="https://logos-download.com/wp-content/uploads/2021/01/Vimeo_Logo.svg" />
-<a href="https://www.imdb.com/name/nm5016646/">
-  <img align="left" alt="IMDB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg" />
-  
+**I diagnose VFX pipelines and make them run themselves.**
 
-<br>
-<br>
+Senior Pipeline TD based in Bristol. Colour science, farm reliability, production tracking, and native DCC tooling across the floor. I also build agent-native surfaces so pipeline systems can be operated by people and agents without pasting secrets into a chat.
 
-**Languages, APIs and Tools:**
-<br>
-[<code><img height="20" src="https://avatars.githubusercontent.com/u/52924476?s=200&v=4"></code>](https://www.blender.org/)
-[<code><img height="20" src="https://avatars.githubusercontent.com/u/1576570?s=200&v=4"></code>](https://github.com/sideeffects)
-[<code><img height="20" src="https://avatars.githubusercontent.com/u/7914533?s=200&v=4"></code>](https://github.com/Autodesk)
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"></code>](https://github.com/topics/qt)
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>](https://www.python.org/)
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>](https://www.gnu.org/software/bash/)
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>](https://www.mysql.com/)
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>](https://www.linux.org/)
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>](https://github.com/)
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>](https://www.docker.com/)
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>](https://www.javascript.com/)
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>](https://nodejs.org/)
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>](https://www.rust-lang.org/)
+## What I build
 
+| Area | Focus |
+|------|--------|
+| Colour pipeline | OCIO / ACES, cross-DCC rules, fail-loud context |
+| Render farm | Deadline robustness, honest fail contracts, submit preflight |
+| Production tracking and MCP | ShotGrid / FPTR Toolkit, launchers, agent-usable tools |
+| Native DCC plugins | Nuke, Houdini, Maya, Blender floor tooling |
+| Generative video infrastructure | Production desks, cook/fleet patterns, publish paths |
 
+## Selected work
 
+Capability-level case studies (no legacy repo pins; studio detail stays private):
 
+- **OCIO / ACES** - cross-DCC colour rules and fail-loud context so looks survive write, farm, and publish
+- **Deadline farms** - honest fail contracts and submit preflight so green means done
+- **ShotGrid / FPTR** - Toolkit engines, launchers, and multi-DCC env that artists actually launch
+- **Native tooling** - Nuke / Houdini / Maya / Blender floor tools where Python is not enough
+- **Agent-native ops** - MCP and desk surfaces so agents and humans share the same pipeline controls
 
-📈 my github stats
+Full write-ups: [paxflix.com](https://paxflix.com)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kimgoddardjr&show_icons=true&theme=gotham" alt="kimgoddardjr" />
+## Pipeline Autopsy / Pipe Doctor
 
-![Snake animation](https://github.com/KimGoddardJr/KimGoddardJr/blob/output/github-contribution-grid-snake.svg)
+**Pipeline Autopsy** finds where a VFX pipeline is lying to you. **Pipe Doctor** is the fix and ops follow-through.
+
+Consulting home: [paxflix.com](https://paxflix.com)
+
+## Stack
+
+Python, Rust, C++, USD, OCIO, Nuke, Houdini, Maya, Blender, Deadline, ShotGrid, Docker, Linux
+
+## Languages
+
+EN / ES / DE / FR
+
+## Contact
+
+[paxflix.com](https://paxflix.com)
